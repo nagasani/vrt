@@ -1,0 +1,12 @@
+nav a {
+    margin: 10px;
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+  }
+  
+  nav a.active {
+    background-color: lightblue;
+  }
+  
